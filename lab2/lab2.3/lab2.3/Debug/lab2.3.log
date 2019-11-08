@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\User\Documents\Projects\OAiP\lab2\lab2.3\lab2.3\Source.cpp(34,10): warning C4098:  main: функция типа "void", возвращающая значение
+  lab2.3.vcxproj -> C:\Users\User\Documents\Projects\OAiP\lab2\lab2.3\Debug\lab2.3.exe
