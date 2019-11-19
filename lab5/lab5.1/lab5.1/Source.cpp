@@ -21,12 +21,14 @@ void main() {
 	}
 
 	sum = 0;
-	for (int i = 0; i < n; i++) {
-		for (int j = 0; j < m; j++) {
-			if (i == j)
-				sum += array[i][j];
+	for (int i = 0; i < n; ++i) {
+		int index = i;
+		for (int j = m-1; j >= 0; j--) {
+				sum += array[index++][j];
 		}
+		break;
 	}
+
 	printf("Sum equals = %.2f \n", sum);
 
 	for (int i = 0; i < n; i++) {
