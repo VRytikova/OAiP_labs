@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\User\Documents\Projects\OAiP\lab7\lab7\lab7\Source.cpp(18,29): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\User\Documents\Projects\OAiP\lab7\lab7\lab7\Source.cpp(28,14): warning C4047: return: "int" отличается по уровням косвенного обращения от "float **"
+C:\Users\User\Documents\Projects\OAiP\lab7\lab7\lab7\Source.cpp(60,14): warning C4047: return: "int" отличается по уровням косвенного обращения от "float **"
+C:\Users\User\Documents\Projects\OAiP\lab7\lab7\lab7\Source.cpp(72,14): warning C4047: return: "int" отличается по уровням косвенного обращения от "float **"
+C:\Users\User\Documents\Projects\OAiP\lab7\lab7\lab7\Source.cpp(167,12): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\User\Documents\Projects\OAiP\lab7\lab7\lab7\Source.cpp(172,21): warning C4047: >: "int (__cdecl *)()" отличается по уровням косвенного обращения от "int"
+C:\Users\User\Documents\Projects\OAiP\lab7\lab7\lab7\Source.cpp(133,1): warning C4047: инициализация: "float **" отличается по уровням косвенного обращения от "int"
+  lab7.vcxproj -> C:\Users\User\Documents\Projects\OAiP\lab7\lab7\Debug\lab7.exe
